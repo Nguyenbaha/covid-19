@@ -24,7 +24,7 @@ export const Container = styled.footer`
 `;
 
 export const Menu = styled.nav`
- > ul {
+  > ul {
     display: flex;
 
     li {
@@ -43,7 +43,7 @@ export const Menu = styled.nav`
   }
 
   @media screen and (max-width: 992px) {
-   > ul {
+    > ul {
       margin: 0.7rem 15px;
     }
   }
