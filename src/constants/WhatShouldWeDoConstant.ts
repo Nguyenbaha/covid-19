@@ -3,7 +3,7 @@ import washYourHands from "../assets/img/wash-your-hands.svg";
 import useNoseRag from "../assets/img/use-nose-rag.svg";
 import avoidContacts from "../assets/img/avoid-contacts.svg";
 
-export default [
+const ListTutorial =  [
   {
     title: "Wear Masks",
     image: wearMasks,
@@ -29,3 +29,5 @@ export default [
       "Continually seize impactful vortals rather than future-proof supply chains. Uniquely exploit emerging niches via fully tested meta-services. Competently pursue standards compliant leadership skills vis-a-vis pandemic",
   },
 ];
+
+export default ListTutorial

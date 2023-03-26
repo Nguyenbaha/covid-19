@@ -31,9 +31,8 @@ const Footer: React.FC = () => {
       </Form>
       <Menu />
       <p className="copyright">
-        {new Date().getFullYear()} @ Design by{" "}
-        <a href="https://dribbble.com/shamimanasrin">Shamima Nasrin</a> and code
-        developed by <a href="https://github.com/lenivene">Lenivene Bezerra</a>
+        {new Date().getFullYear()} @ Code
+        developed by <a href="https://github.com/Nguyenbaha"><strong>Hanb</strong></a>
       </p>
     </Container>
   );
