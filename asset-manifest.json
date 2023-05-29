@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/Nguyenbaha/covid-19/tree/dev/static/js/main.9ae08a3a.js",
-    "static/media/spotlight-banner.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/spotlight-banner.4f7cff258cec877f778d41d8bbddb2ee.svg",
-    "static/media/symptomps.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/symptomps.124c24a74de5bc54d228d99b052aa670.svg",
-    "static/media/coronavirus.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/coronavirus.e58b1f76b5e381c0113f197baa91a1e3.svg",
-    "static/media/wear-masks.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/wear-masks.a1b8c5a1c601a7e498aaca13d66c382b.svg",
-    "static/media/avoid-contacts.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/avoid-contacts.5d1b27e2b383b06756dc4b5d9d4706c3.svg",
-    "static/media/wash-your-hands.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/wash-your-hands.7041311e582841f9b4e154168ad80f57.svg",
-    "static/media/air-transmission.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/air-transmission.219d00854dfdf421baada162820a347e.svg",
-    "static/media/use-nose-rag.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/use-nose-rag.ca4baf2d503349932ae0e8d146b3dc7e.svg",
-    "static/media/coronavirus-low-opacity.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/coronavirus-low-opacity.3a9094f5e6e84c6011a7833deb4642b1.svg",
-    "static/media/logo.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/logo.ad3c68e5651644bf89c880fb1e8f3426.svg",
-    "static/media/containted-objects.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/containted-objects.a4f4c431cf4ba463e9d9306579058033.svg",
-    "static/media/human-contacts.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/human-contacts.8209619ced181934fde29de776a756bb.svg",
-    "static/media/coronavirus-lp-small.svg": "/Nguyenbaha/covid-19/tree/dev/static/media/coronavirus-lp-small.2db717fa35b3fc82c23e80e5ab588366.svg",
-    "index.html": "/Nguyenbaha/covid-19/tree/dev/index.html",
-    "main.9ae08a3a.js.map": "/Nguyenbaha/covid-19/tree/dev/static/js/main.9ae08a3a.js.map"
+    "main.js": "/covid-19/static/js/main.21b957d1.js",
+    "static/media/spotlight-banner.svg": "/covid-19/static/media/spotlight-banner.4f7cff258cec877f778d41d8bbddb2ee.svg",
+    "static/media/symptomps.svg": "/covid-19/static/media/symptomps.124c24a74de5bc54d228d99b052aa670.svg",
+    "static/media/coronavirus.svg": "/covid-19/static/media/coronavirus.e58b1f76b5e381c0113f197baa91a1e3.svg",
+    "static/media/wear-masks.svg": "/covid-19/static/media/wear-masks.a1b8c5a1c601a7e498aaca13d66c382b.svg",
+    "static/media/avoid-contacts.svg": "/covid-19/static/media/avoid-contacts.5d1b27e2b383b06756dc4b5d9d4706c3.svg",
+    "static/media/wash-your-hands.svg": "/covid-19/static/media/wash-your-hands.7041311e582841f9b4e154168ad80f57.svg",
+    "static/media/air-transmission.svg": "/covid-19/static/media/air-transmission.219d00854dfdf421baada162820a347e.svg",
+    "static/media/use-nose-rag.svg": "/covid-19/static/media/use-nose-rag.ca4baf2d503349932ae0e8d146b3dc7e.svg",
+    "static/media/coronavirus-low-opacity.svg": "/covid-19/static/media/coronavirus-low-opacity.3a9094f5e6e84c6011a7833deb4642b1.svg",
+    "static/media/logo.svg": "/covid-19/static/media/logo.ad3c68e5651644bf89c880fb1e8f3426.svg",
+    "static/media/containted-objects.svg": "/covid-19/static/media/containted-objects.a4f4c431cf4ba463e9d9306579058033.svg",
+    "static/media/human-contacts.svg": "/covid-19/static/media/human-contacts.8209619ced181934fde29de776a756bb.svg",
+    "static/media/coronavirus-lp-small.svg": "/covid-19/static/media/coronavirus-lp-small.2db717fa35b3fc82c23e80e5ab588366.svg",
+    "index.html": "/covid-19/index.html",
+    "main.21b957d1.js.map": "/covid-19/static/js/main.21b957d1.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ae08a3a.js"
+    "static/js/main.21b957d1.js"
   ]
 }
