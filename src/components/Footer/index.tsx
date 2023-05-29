@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
           <strong>Let us help you</strong>
         </label>
         <div className="group">
-          <input name="email" type="email" placeholder="lenivene@msn.com" />
+          <input name="email" type="email" placeholder="nbhafithou@gmail.com" />
           <button type="submit" className="btn active">
             Send
           </button>
